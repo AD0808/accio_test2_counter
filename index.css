@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+.container{
+    margin-top:40px;
+    margin-left:40px;
+    width:1000px;
+    height:1000px;
+
+}
+
+.main-heading{
+    color:white;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.count-text{
+    margin-top:15px;
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.hr-line{
+    width:180px;
+    height:1px;
+    background-color: white;
+    margin-top:10px;
+}
+
+.error{
+    color: red;
+    margin-top:15px;
+    display: none;
+}
+
+.btn-container{
+    margin-top:30px;
+    display: flex;
+    gap:15px
+}
+
+.clear-btn{
+    display:none;
+    width:120px;
+    height:30px;
+    background-color: black;
+    color: white;
+    border:1px solid white;
+}
+
+.btn1{
+    width:120px;
+    height:30px;
+}
+.btn2{
+    width:120px;
+    height:30px;
+}
