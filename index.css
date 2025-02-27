@@ -49,13 +49,16 @@ body{
     background-color: black;
     color: white;
     border:1px solid white;
+    font-size: 14px;
 }
 
 .btn1{
     width:120px;
     height:30px;
+    font-size: 14px;
 }
 .btn2{
     width:120px;
     height:30px;
+    font-size: 14px;
 }
